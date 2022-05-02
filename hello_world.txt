@@ -1,0 +1,3 @@
+Hello World this is my first lesson using git from the CLI.
+
+For the Odin Project! :)
